@@ -107,6 +107,8 @@ int main() {
     // Alustetaan pohjoismainen asettelu
     setlocale(LC_ALL, "fi_FI");
 
+    std::cout << "***Huoneen varausjärjestelmä***\n\n";
+    
     std::string filename = "huoneet.txt";
     std::vector<Room> rooms;
 
