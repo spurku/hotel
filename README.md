@@ -4,10 +4,10 @@ Janne Lankinen 24TIETOA
 
 Arvosana arvio 4
 
-- Hotellihuoneiden hallintaan tarkoitettu c++ sovellus, joka mahdollistaa huoneiden varaamisen, tarkastelun ja tietojen tallentamisen tiedostoon. Käyttäjäystävällisessä           tekstipohjaisessa käyttöliittymässä voi valita toimintoja, kuten huonelistauksen näyttäminen, huoneiden varaaminen ja ohjelman sulkeminen. Ohjelma on saatavilla osoitteessa:
-GitHub: spurku/hotel.
+- Hotellihuoneiden hallintaan tarkoitettu c++ sovellus, joka mahdollistaa huoneiden varaamisen, tarkastelun ja tietojen tallentamisen tiedostoon. Käyttäjäystävällisessä           tekstipohjaisessa käyttöliittymässä voi valita toimintoja, kuten huonelistauksen näyttäminen, huoneiden varaaminen ja ohjelman sulkeminen. 
 
 Keskeiset Ominaisuudet
+
 Huoneiden Lataaminen ja Alustaminen
 
 Tiedot ladataan tiedostosta ohjelman käynnistyessä.
