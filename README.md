@@ -1,6 +1,8 @@
 # hotellihuone varausjärjestelmä
 
-- Hotellihuoneiden hallintaan tarkoitettu sovellus, joka mahdollistaa huoneiden varaamisen, tarkastelun ja tietojen tallentamisen tiedostoon. Käyttäjäystävällisessä           tekstipohjaisessa käyttöliittymässä voi valita toimintoja, kuten huonelistauksen näyttäminen, huoneiden varaaminen ja ohjelman sulkeminen. Ohjelma on saatavilla osoitteessa:
+Janne Lankinen 24TIETOA
+
+- Hotellihuoneiden hallintaan tarkoitettu c++ sovellus, joka mahdollistaa huoneiden varaamisen, tarkastelun ja tietojen tallentamisen tiedostoon. Käyttäjäystävällisessä           tekstipohjaisessa käyttöliittymässä voi valita toimintoja, kuten huonelistauksen näyttäminen, huoneiden varaaminen ja ohjelman sulkeminen. Ohjelma on saatavilla osoitteessa:
 GitHub: spurku/hotel.
 
 Keskeiset Ominaisuudet
