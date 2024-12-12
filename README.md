@@ -1,6 +1,8 @@
 # hotellihuone varausjärjestelmä
 
-Janne Lankinen 24TIETOA
+Janne Lankinen 
+Tampereen ammattikorkekoulu TAMK
+24TIETOA
 
 Arvosana arvio 4
 
@@ -20,15 +22,19 @@ Huoneiden Varaaminen
 Käyttäjä valitsee huonenumeron ja öiden määrän.
 Varaus estetään, jos huone on jo varattu tai syöte on virheellinen.
 Varaus onnistuu oikeilla tiedoilla, ja ohjelma laskee kokonaishinnan.
+
 Tietojen Tallennus
 
 Varausten muutokset tallennetaan automaattisesti tiedostoon.
+
 Virheenkäsittely
 
 Käsittelee virheelliset syötteet ja ohjaa käyttäjän oikeaan toimintaan.
+
 Mukautettavuus
 
 Huonemäärä ja hintahaarukka säädettävissä ohjelman vakioista.
+
 Tekniset Piirteet
 Tiedostojen Käyttö: Käytetään std::ifstream ja std::ofstream, ja tiedostot tallennetaan helposti luettavaan muotoon.
 Rakenteet: Huonetiedot tallennetaan Room-rakenteeseen.
