@@ -6,20 +6,21 @@ Tampereen ammattikorkekoulu TAMK
 
 Arvosana arvio 4
 
-- Hotellihuoneiden hallintaan tarkoitettu c++ sovellus, joka mahdollistaa huoneiden varaamisen, tarkastelun ja tietojen tallentamisen tiedostoon. Käyttäjäystävällisessä           tekstipohjaisessa käyttöliittymässä voi valita toimintoja, kuten huonelistauksen näyttäminen, huoneiden varaaminen ja ohjelman sulkeminen. 
+Hotellihuoneiden hallintaan tarkoitettu c++ sovellus, joka mahdollistaa huoneiden varaamisen, tarkastelun ja tietojen tallentamisen tiedostoon. Käyttäjäystävällisessä           tekstipohjaisessa käyttöliittymässä voi valita toimintoja, kuten huonelistauksen näyttäminen, huoneiden varaaminen ja ohjelman sulkeminen. 
 
-Keskeiset Ominaisuudet
+  Keskeiset Ominaisuudet
 
-Huoneiden Lataaminen ja Alustaminen
+  - Huoneiden Lataaminen ja Alustaminen
 
-Tiedot ladataan tiedostosta ohjelman käynnistyessä.
-Jos tiedostoa ei löydy, huoneet alustetaan satunnaisesti (30–50 huonetta, hinnat 80–100 €/yö).
-Huonelistauksen Näyttäminen
+    Tiedot ladataan tiedostosta ohjelman käynnistyessä.
+    Jos tiedostoa ei löydy, huoneet alustetaan satunnaisesti (30–50 huonetta, hinnat 80–100 €/yö).
+    Huonelistauksen Näyttäminen
 
-Näyttää huonenumero, varaustilanne ja hinta per yö.
+  -Näyttää huonenumero, varaustilanne ja hinta per yö.
+
 Huoneiden Varaaminen
 
-Käyttäjä valitsee huonenumeron ja öiden määrän.
+  - Käyttäjä valitsee huonenumeron ja öiden määrän.
 Varaus estetään, jos huone on jo varattu tai syöte on virheellinen.
 Varaus onnistuu oikeilla tiedoilla, ja ohjelma laskee kokonaishinnan.
 
