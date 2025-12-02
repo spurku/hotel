@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <fstream>
-#include <random> // Parempaa satunnaisuutta varten
+#include <random>
 #include <limits> 
 #include <locale> // setlocale:n käyttöön
 
